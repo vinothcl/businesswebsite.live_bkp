@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+	<url>
+		<loc>https://www.businesswebsite.live/index.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-logo-banner.jpg</image:loc>
+          <image:caption>businesswebsite</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/about.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/about.jpg</image:loc>
+          <image:caption>businesswebsite about</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite about</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/services.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/our-service-1.jpg</image:loc>
+          <image:caption>businesswebsite services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/products.php</loc>
+		<lastmod>2020-06-23</lastmod>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/web-design.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-web-design-services.jpg</image:loc>
+          <image:caption>businesswebsite web design services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite web design services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/web-development.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-web-development-services.jpg</image:loc>
+          <image:caption>businesswebsite web development services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite web development services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/mobile-applications-development.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-mobile-app-development-services.jpg</image:loc>
+          <image:caption>businesswebsite mobile app development services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite mobile app development services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/seo.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-search-engine-optimization-services-SEO-services.png</image:loc>
+          <image:caption>businesswebsite search engine optimization services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite search engine optimization services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/digital-marketing.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-digital-marketing-services.png</image:loc>
+          <image:caption>businesswebsite digital marketing services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite digital marketing services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/quality-assurance.php</loc>
+		<lastmod>2020-06-23</lastmod>
+		<image:image>
+          <image:loc>https://www.businesswebsite.live/assets/images/businesswebsite-quality-assurance-services.jpg</image:loc>
+          <image:caption>businesswebsite quality assurance services</image:caption>
+          <image:geo_location>Toronto, Canada</image:geo_location>
+          <image:title>businesswebsite quality assurance services</image:title>
+       </image:image>
+	</url>
+	<url>
+		<loc>https://www.businesswebsite.live/sitemap.php</loc>
+		<lastmod>2020-06-23</lastmod>
+	</url>
+</urlset>
